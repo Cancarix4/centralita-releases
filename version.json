@@ -1,5 +1,5 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "1.0.0",
-  "notas": "Explorador de pantallas de la radio, buscador de archivos de registro y boton de reiniciar la radio."
+  "notas": "Arreglada la descarga de actualizaciones, APK a la mitad de tamano y datos de red de la radio."
 }
