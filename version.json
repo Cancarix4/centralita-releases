@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "versionName": "1.0.0",
-  "notas": "Prueba de conexion. Todavia no hay version nueva."
+  "notas": "Explorador de pantallas de la radio, buscador de archivos de registro y boton de reiniciar la radio."
 }
