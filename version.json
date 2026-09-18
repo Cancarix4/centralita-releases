@@ -1,5 +1,5 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.0.0",
-  "notas": "Arreglada la descarga de actualizaciones, APK a la mitad de tamano y datos de red de la radio."
+  "notas": "Pantalla de sensores delanteros con datos de prueba."
 }
