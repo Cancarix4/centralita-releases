@@ -1,5 +1,5 @@
 {
-    "versionCode":  11,
+    "versionCode":  12,
     "versionName":  "1.0.0",
-    "notas":  "Reloj en los botones, la app se pone delante al dar el contacto, chivato de la cámara trasera y el iPhone encuentra la radio solo."
+    "notas":  "Caja negra (graba todo para cazar fallos), velocidad de la trama de la radio, batería real, la app sale sola al dar el contacto, espejo de la cámara con doble toque y, en el iPhone, el marcador con los datos de la radio."
 }
