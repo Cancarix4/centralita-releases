@@ -1,5 +1,5 @@
 {
-    "versionCode":  10,
+    "versionCode":  11,
     "versionName":  "1.0.0",
-    "notas":  "mejoras"
+    "notas":  "Reloj en los botones, la app se pone delante al dar el contacto, chivato de la cámara trasera y el iPhone encuentra la radio solo."
 }
